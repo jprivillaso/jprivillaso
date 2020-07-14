@@ -19,7 +19,7 @@ Follow my work and activity at the following links:
   <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_linkedin.png">
 </a>
 <a href="https://www.juanrivillas.com">
-  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_website.png">
+  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_website.jpg">
 </a>
 
 ### Tech-Stack
