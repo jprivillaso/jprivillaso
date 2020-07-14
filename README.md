@@ -21,6 +21,9 @@ Follow my work and activity at the following links:
 <a href="https://www.juanrivillas.com">
   <img alt="website" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_website.jpg"/>
 </a>
+<a href="https://stackoverflow.com/users/2599811/jprivillaso">
+  <img alt="website" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_so.png"/>
+</a>
 
 ## 💻 Recent Work and Tech Stack
 
