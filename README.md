@@ -13,13 +13,13 @@ I'm currently working at Energicos GmbH, where I lead a team of 6 engineers and 
 Follow my work and activity at the following links:
 
 <a href="https://www.linkedin.com/in/jprivillaso/">
-  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_linkedin.png"/>
+  <img alt="linkedin" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_linkedin.png"/>
 </a>
 <a href="https://www.twitter.com/jprivillaso/">
-  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_twitter.png"/>
+  <img alt="twitter" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_twitter.png"/>
 </a>
 <a href="https://www.juanrivillas.com">
-  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_website.jpg"/>
+  <img alt="website" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_website.jpg"/>
 </a>
 
 ## 💻 Recent Work and Tech Stack
@@ -27,8 +27,8 @@ Follow my work and activity at the following links:
 In recent years my work has been focused on Serverless Architecture, Microservices, and fine-tuning applications to scale.
 
 <p>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_aws.png"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_js.png"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_lambda.png"/>
-  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_serverless.png"/>
+  <img alt="aws" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_aws.png"/>
+  <img alt="javascript/nodejs" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_js.png"/>
+  <img alt="lambda" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_lambda.png"/>
+  <img alt="serverless" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_serverless.png"/>
 </p>
