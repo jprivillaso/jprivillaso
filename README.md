@@ -13,13 +13,13 @@ I'm currently working at Energicos GmbH, where I lead a team of 6 engineers and 
 Follow my work and activity at the following links:
 
 <a href="https://www.linkedin.com/in/jprivillaso/">
-  <img width="50" height="50" src="https://github.com/jprivillaso/jprivillaso/images/social_linkedin.png">
+  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_linkedin.png">
 </a>
 <a href="https://www.twitter.com/jprivillaso/">
-  <img width="50" height="50" src="https://github.com/jprivillaso/jprivillaso/images/social_linkedin.png">
+  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_linkedin.png">
 </a>
 <a href="https://www.juanrivillas.com">
-  <img width="50" height="50" src="https://github.com/jprivillaso/jprivillaso/images/social_website.png">
+  <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_website.png">
 </a>
 
 ### Tech-Stack
