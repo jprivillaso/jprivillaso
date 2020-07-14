@@ -1,4 +1,4 @@
-# Welcome 👋!
+# Welcome 👋
 
 My name is Juan!
 
@@ -22,4 +22,11 @@ Follow my work and activity at the following links:
   <img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_website.jpg">
 </a>
 
-### Tech-Stack
+## 💻 Recent Work and Tech Stack
+
+In recent years my work has been focused on Serverless Architecture, Microservices, and fine-tuning applications to scale.
+
+<img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_aws.png">
+<img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_js.png">
+<img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_lambda.png">
+<img width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/icon_serverless.png">
