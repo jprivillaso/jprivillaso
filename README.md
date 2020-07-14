@@ -25,6 +25,8 @@ Follow my work and activity at the following links:
   <img alt="website" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_so.png"/>
 </a>
 
+Feel free to reach out through any of these social media platforms!
+
 ## 💻 Recent Work and Tech Stack
 
 In recent years, my work has been focused on Serverless Architecture, Microservices, and fine-tuning applications to scale.
