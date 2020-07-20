@@ -6,8 +6,6 @@ I'm a well-established software engineering leader with passion for programming,
 
 Throughout my career, I have made it my priority to combine academic and professional skills. That’s why I am pursuing a Master’s degree in Software Engineering at Harvard University Extension School. Additionally, I have had the opportunity to work for large scale enterprises in different industries, spanning Frontend, Backend, DevOps, and Leadership roles.
 
-I'm currently working at Energicos GmbH leading a team of 6 engineers, and building a product for reducing the carbon footprint.
-
 ## 🚀 Social Media
 
 Follow my work and activity at the following links:
