@@ -10,9 +10,6 @@ Throughout my career, I have made it my priority to combine academic and profess
 
 Follow my work and activity at the following links:
 
-<a href="https://www.linkedin.com/in/jprivillaso/">
-  <img alt="linkedin" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_linkedin.png"/>
-</a>
 <a href="https://www.twitter.com/jprivillaso/">
   <img alt="twitter" width="50" height="50" src="https://raw.githubusercontent.com/jprivillaso/jprivillaso/master/images/social_twitter.png"/>
 </a>
